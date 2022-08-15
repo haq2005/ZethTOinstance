@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/ZethTOinstance/static/css/main.d4d71524.css",
-    "main.js": "/ZethTOinstance/static/js/main.738254c9.js",
+    "main.js": "/ZethTOinstance/static/js/main.2ee3075a.js",
     "static/js/787.bf8142c8.chunk.js": "/ZethTOinstance/static/js/787.bf8142c8.chunk.js",
     "static/media/launch.gif": "/ZethTOinstance/static/media/launch.14661adf4c86b40f4d69.gif",
     "index.html": "/ZethTOinstance/index.html",
     "main.d4d71524.css.map": "/ZethTOinstance/static/css/main.d4d71524.css.map",
-    "main.738254c9.js.map": "/ZethTOinstance/static/js/main.738254c9.js.map",
+    "main.2ee3075a.js.map": "/ZethTOinstance/static/js/main.2ee3075a.js.map",
     "787.bf8142c8.chunk.js.map": "/ZethTOinstance/static/js/787.bf8142c8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d4d71524.css",
-    "static/js/main.738254c9.js"
+    "static/js/main.2ee3075a.js"
   ]
 }
